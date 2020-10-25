@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<levels>
+	<level id="1">
+		<lightWeaponLimit>1</lightWeaponLimit>
+		<heavyWeaponLimit>1</heavyWeaponLimit>
+		<fastWeaponLimit>1</fastWeaponLimit>
+	</level>
+
+	<level id="2">
+		<lightWeaponLimit>1</lightWeaponLimit>
+		<heavyWeaponLimit>1</heavyWeaponLimit>
+		<fastWeaponLimit>1</fastWeaponLimit>
+	</level>
+
+	<level id="3">
+		<lightWeaponLimit>1</lightWeaponLimit>
+		<heavyWeaponLimit>2</heavyWeaponLimit>
+		<fastWeaponLimit>1</fastWeaponLimit>
+	</level>
+
+</levels>
