@@ -16,5 +16,6 @@ What did i use:
 * Java HotSpot(TM) 64-Bit Server VM (build 25.251-b08, mixed mode)
 * javac 11.0.7
 * adoptopenjdk-11-hotspot-amd64
-* and the beautiful Visual Studio Code 
-Just point the JavaFx SDK in the Visual Studio Code and run it.
+* Visual Studio Code 
+
+Just point the JavaFX SDK in the Visual Studio Code and run it. If you use an IDE then probably your IDE will detect JavaFX if installed or you can point the JavaFX SDK manually.
