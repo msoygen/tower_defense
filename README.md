@@ -21,6 +21,17 @@ Just point the JavaFX SDK in the Visual Studio Code and run it. If you use an ID
 ## Run From .jar File
 You can run [this](tower_defense.jar) .jar file to play the game.
 
+
+Just type: 
+
+`java -jar tower_defense.jar`
+
+in your terminal and execute.
+
+## UML Diagram
+We made a UML diagram as a team to work together efficiently.
+
+[UML Diagram](/UMLv6.jpg)
 ## Screenshots
 
 * Main Menu
